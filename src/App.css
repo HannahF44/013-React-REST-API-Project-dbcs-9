@@ -1,5 +1,21 @@
 main {
+
+}
+
+
+.container {
+  display: flex;
+}
+
+.type1 {
   text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+}
+
+.description {
+  text-align: center;
+  font-size: 3em;
+}
+
+.type2 {
+  text-align: center;
 }
