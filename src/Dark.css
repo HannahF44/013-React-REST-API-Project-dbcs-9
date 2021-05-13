@@ -1,0 +1,27 @@
+main {
+}
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pokemon2 {
+  text-align: center;
+  font-family: cursive;
+  padding: 15px;
+  border-radius: 10px;
+  background: rgb(62, 0, 87);
+  margin: 2em auto;
+  font-size: 2em;
+  color: rgb(111, 0, 255);
+}
+
+.pokeLink {
+  padding: 25px;
+  background: red;
+  
+}
